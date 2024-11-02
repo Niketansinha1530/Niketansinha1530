@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Blog Application](https://github.com/Niketansinha1530/blogApplicationProject_Backend)
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Niketansinha1530](https://github.com/Niketansinha1530)
 
