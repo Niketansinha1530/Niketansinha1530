@@ -83,7 +83,7 @@ niketan = {
         <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
         <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
       </p>
-      <a href="https://github.com/Niketansinha1530">📂 View Project →</a>
+      <a href="[https://github.com/Niketansinha1530](https://github.com/Niketansinha1530/SQL-DATAWARE-HOUSE-PROJECT)">📂 View Project →</a>
     </td>
   </tr>
   <tr>
@@ -100,7 +100,7 @@ niketan = {
         <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
         <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white"/>
       </p>
-      <a href="https://github.com/Niketansinha1530">📂 View Project →</a>
+      <a href="[https://github.com/Niketansinha1530](https://github.com/Niketansinha1530/cognifyz_Internship_Assignment)">📂 View Project →</a>
     </td>
     <td width="50%" valign="top">
       <h3>📱 Mobile Sales Analysis Dashboard</h3>
