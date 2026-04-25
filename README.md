@@ -103,10 +103,11 @@ niketan = {
       <a href="https://github.com/Niketansinha1530/cognifyz_Internship_Assignment">📂 View Project →</a>
     </td>
     <td width="50%" valign="top">
-      <h3>📱 Mobile Sales Analysis Dashboard</h3>
+      <h3>🚚 Global Logistics Analytics Dashboard</h3>
       <p>Executive-facing <strong>Power BI dashboard</strong> for mobile sales data with advanced time intelligence.</p>
       <ul>
-        <li>📅 DAX measures: MTD, YTD, QTD & YoY comparisons</li>
+        <li>📅 DAX measures: CSAT%, Total Orders, Breakdown%, Star DAX & YoY comparisons</li>
+        <li>⭐ Star Schema </li>
         <li>🎯 KPI layout optimized for non-technical stakeholders</li>
         <li>⚡ Clean, interactive design for business reporting</li>
       </ul>
@@ -114,7 +115,7 @@ niketan = {
         <img src="https://img.shields.io/badge/Power BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
         <img src="https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
       </p>
-      <a href="https://github.com/Niketansinha1530">📂 View Project →</a>
+      <a href="https://github.com/Niketansinha1530/Global-Logistics-Dashboard-Power-BI">📂 View Project →</a>
     </td>
   </tr>
 </table>
